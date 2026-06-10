@@ -3,7 +3,7 @@ Pipe Rescue playable ad assessment project
 
 1.What it is: A mobile playable ad built in Cocos Creator 3.8.6 where the player rotates pipe tiles to connect a water source to a goal.
 
-2.How to run: Open the project in Cocos Creator 3.8.6, it opens in web-browser using a localhost.(LocalhostID : http://localhost:7456/)
+2.How to run: Open the project in Cocos Creator 3.8.6,[main scripts are PipeGame.ts & TileData.ts] it opens in web-browser using a localhost.(LocalhostID : http://localhost:7456/) 
 
 3.Cocos Creator version: 3.8.6
 
